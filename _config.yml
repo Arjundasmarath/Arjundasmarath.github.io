@@ -11,6 +11,9 @@ description: Data Engineer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+
 #
 # Flags below are optional
 #
