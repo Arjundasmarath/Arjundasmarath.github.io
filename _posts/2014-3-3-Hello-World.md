@@ -4,7 +4,7 @@ title: Hello,World!
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
 
 [DonorChoose - A recommendation System](https://github.com/Arjundasmarath/DonorChoose---A-Recommendation-System)
